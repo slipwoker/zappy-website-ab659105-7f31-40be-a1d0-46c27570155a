@@ -1,0 +1,93 @@
+# בית לייס — Generative Engine Optimization Map
+
+> Beit Lace is a premium Israeli real estate and home services hub that unifies property listings, urban renewal, investments, professional services, home design, and even numerology under one elegant brand. The platform radiates luxury, femininity, and strength through a sophisticated color palette of white, gold, emerald green, turquoise, deep purple, and powder pink. It serves property owners, investors, and home professionals alike, offering a full e-commerce store for home products alongside a marketplace for listing properties and professional services. The brand vision is modern, clean, and high-end — a one-stop destination where real estate meets lifestyle.
+
+---
+
+## Pages
+
+### בית
+https://-ab659105.zappy5.app
+פלטפורמת יוקרה המשלבת נדל״ן, עיצוב הבית ושירותים מקצועיים תחת קורת גג אחת. גלי נכסים, השקעות והשראה בעולם אחד אלגנטי. היכנסי עכשיו והתחילי ליצור את המציאות שלך.
+
+### התחדשות עירונית
+https://-ab659105.zappy5.app/urban-renewal
+מובילים את הדרך בפינוי בינוי והתחדשות עירונית ברמה הגבוהה ביותר. הצטרפי למהפכה הנדל״נית שמשדרגת שכונות ויוצרת הזדמנויות פז. לחצי כאן לעתיד ורוד יותר.
+
+### השקעות נדל"ן
+https://-ab659105.zappy5.app/investments
+גלי הזדמנויות השקעה מניבות עם ליווי מקצועי ואישי. מנדל״ן מניב ועד אפיקים אלטרנטיביים — כאן בונים תיק השקעות מנצח. התחילי להשקיע כמו מקצוענית עוד היום.
+
+### פרסם נכס או שירות
+https://-ab659105.zappy5.app/publish
+חשפי את הנכס או השירות המקצועי שלך לקהל איכותי ומדויק. הפלטפורמה שלנו מחברת בין מצוינות לביקוש אמיתי. העלי לאוויר עכשיו ותני לעולם לגלות אותך.
+
+### עיצוב הבית ולייף סטייל
+https://-ab659105.zappy5.app/home-design
+השראה, מוצרי יוקרה ולייף סטייל שהופכים כל בית ליצירת אמנות. מהסלון ועד חדר השינה — גלי טרנדים, קני אונליין והפכי את המרחב שלך לממלכה אישית.
+
+### צור קשר
+https://-ab659105.zappy5.app/contact
+אנחנו כאן להקשיב, לייעץ ולהוביל אותך קדימה. בין אם זה נדל״ן, עיצוב או השקעה — השאירי פרטים ונחזור במהירות עם חיוך. דברי איתנו עוד היום.
+
+### Products
+https://-ab659105.zappy5.app/products
+המוצרים שלנו - בית לייס
+
+### Product Detail
+https://-ab659105.zappy5.app/product/:slug
+פרטי המוצר - בית לייס
+
+### Category
+https://-ab659105.zappy5.app/category/:slug
+מוצרים - בית לייס
+
+### תודה שפניתם אלינו | בית לייס
+https://-ab659105.zappy5.app/thank-you
+בית לייס - תודה שפניתם אלינו | בית לייס
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ab659105.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ab659105.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ab659105.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בית לייס
+Beit Lace is a premium Israeli real estate and home services hub that unifies property listings, urban renewal, investments, professional services, home design, and even numerology under one elegant brand. The platform radiates luxury, femininity, and strength through a sophisticated color palette of white, gold, emerald green, turquoise, deep purple, and powder pink. It serves property owners, investors, and home professionals alike, offering a full e-commerce store for home products alongside a marketplace for listing properties and professional services. The brand vision is modern, clean, and high-end — a one-stop destination where real estate meets lifestyle.
+
+## Target Audience
+- בעלי נכסים, משקיעים, בעלי מקצוע בתחום הנדל"ן והבנייה, ורוכשי מוצרים לבית
+- בעלי נכסים ומשקיעים
+- בעלי מקצוע בתחום הנדל"ן
+- חובבי התחדשות עירונית
+
+## Industry
+Real Estate & Home Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-ab659105.zappy5.app/sitemap.xml
+- Robots: https://-ab659105.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-ab659105.zappy5.app/llms-full.txt
+- Products (JSON): https://-ab659105.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-ab659105.zappy5.app/product-feed.xml
