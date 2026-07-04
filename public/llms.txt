@@ -7,57 +7,57 @@
 ## Pages
 
 ### בית
-https://-ab659105.zappy5.app
+https://example.com
 פלטפורמת יוקרה המשלבת נדל״ן, עיצוב הבית ושירותים מקצועיים תחת קורת גג אחת. גלי נכסים, השקעות והשראה בעולם אחד אלגנטי. היכנסי עכשיו והתחילי ליצור את המציאות שלך.
 
 ### התחדשות עירונית
-https://-ab659105.zappy5.app/urban-renewal
+https://example.com/urban-renewal
 מובילים את הדרך בפינוי בינוי והתחדשות עירונית ברמה הגבוהה ביותר. הצטרפי למהפכה הנדל״נית שמשדרגת שכונות ויוצרת הזדמנויות פז. לחצי כאן לעתיד ורוד יותר.
 
 ### השקעות נדל"ן
-https://-ab659105.zappy5.app/investments
+https://example.com/investments
 גלי הזדמנויות השקעה מניבות עם ליווי מקצועי ואישי. מנדל״ן מניב ועד אפיקים אלטרנטיביים — כאן בונים תיק השקעות מנצח. התחילי להשקיע כמו מקצוענית עוד היום.
 
 ### פרסם נכס או שירות
-https://-ab659105.zappy5.app/publish
+https://example.com/publish
 חשפי את הנכס או השירות המקצועי שלך לקהל איכותי ומדויק. הפלטפורמה שלנו מחברת בין מצוינות לביקוש אמיתי. העלי לאוויר עכשיו ותני לעולם לגלות אותך.
 
 ### עיצוב הבית ולייף סטייל
-https://-ab659105.zappy5.app/home-design
+https://example.com/home-design
 השראה, מוצרי יוקרה ולייף סטייל שהופכים כל בית ליצירת אמנות. מהסלון ועד חדר השינה — גלי טרנדים, קני אונליין והפכי את המרחב שלך לממלכה אישית.
 
 ### צור קשר
-https://-ab659105.zappy5.app/contact
+https://example.com/contact
 אנחנו כאן להקשיב, לייעץ ולהוביל אותך קדימה. בין אם זה נדל״ן, עיצוב או השקעה — השאירי פרטים ונחזור במהירות עם חיוך. דברי איתנו עוד היום.
 
 ### Products
-https://-ab659105.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - בית לייס
 
 ### Product Detail
-https://-ab659105.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - בית לייס
 
 ### Category
-https://-ab659105.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - בית לייס
 
 ### תודה שפניתם אלינו | בית לייס
-https://-ab659105.zappy5.app/thank-you
+https://example.com/thank-you
 בית לייס - תודה שפניתם אלינו | בית לייס
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-ab659105.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-ab659105.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-ab659105.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -86,8 +86,8 @@ Real Estate & Home Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-ab659105.zappy5.app/sitemap.xml
-- Robots: https://-ab659105.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-ab659105.zappy5.app/llms-full.txt
-- Products (JSON): https://-ab659105.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-ab659105.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
